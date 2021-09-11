@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mayank Mani
-- 👀 I’m interested in Deveops
+- 👀 I’m a QA AUtomation Engineer
 - 🌱 I’m currently learning AWS Sysops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
