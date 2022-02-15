@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Mayank Mani
 - 👀 I’m a QA AUtomation Engineer
-- 🌱 I’m currently learning AWS Sysops
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 mayanksuns/mayanksuns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
